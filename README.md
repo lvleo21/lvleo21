@@ -1,9 +1,9 @@
 # Hi there,  i'm Leonardo Veras 
-### I'm developer and studant of Information Systems at UAST - UFRPE
+### I'm developer and studant of Sistemas da Informação at UAST - UFRPE
 
 
 ## About
-- 🔭 I’m currently working on Sertão Mais Saúde and Health Transportation;
+- :construction_worker: I’m currently working on [Sertão Mais Saúde](http://sertaomaissaude.com.br/site/) and Health Transportation;
 - 🌱 I’m currently learning about:
   - Django;
   - Django Rest Framework;
@@ -11,7 +11,7 @@
   - English
 
 
-## Most used lenguages
+## Most used languages in my projects
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lvleo21&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -29,3 +29,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=plastic&logo=bootstrap)
+
+## Contact
+
+- :mailbox: verasleonardo210@gmail.com
