@@ -1,18 +1,19 @@
-# Hi there,  i'm Leonardo Veras :blush:
+# Hi there,  i'm Leonardo Veras 
 ### I'm developer and studant of Information Systems at UAST - UFRPE
 
 
 ## About
 - 🔭 I’m currently working on Sertão Mais Saúde and Health Transportation;
-- 🌱 I’m currently learning Django and Django Rest Framework;
+- 🌱 I’m currently learning about:
+  - Django;
+  - Django Rest Framework;
+  - Docker;
+  - English
 
-<center> 
 
+## Most used lenguages
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lvleo21&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lvleo21&count_private=true&show_icons=true)
-
-</center>
 
 ## Languages and Tools
 
