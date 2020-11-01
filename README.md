@@ -30,7 +30,3 @@
 ![CSS3](https://img.icons8.com/color/40/000000/css3.png)
 ![Bootstrap](https://img.icons8.com/color/40/000000/bootstrap.png)
 ![Terminal](https://img.icons8.com/office/40/000000/console.png)
-
-## Contact
-
-- verasleonardo210@gmail.com
