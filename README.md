@@ -17,18 +17,18 @@
 
 ## Languages and Tools
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
-![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku)
-![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
-![Django](https://img.shields.io/badge/-Django-092E20?style=plastic&logo=Django)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=plastic&logo=postgresql)
-![Java](https://img.shields.io/badge/-java-3f4441?style=plastic&logo=java) 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=plastic&logo=bootstrap)
+![JavaScript](https://img.icons8.com/color/40/000000/javascript-logo-1.png)
+![Git](https://img.icons8.com/color/40/000000/git.png)
+![GitHub](https://img.icons8.com/fluent/40/000000/github.png)
+![Heroku](https://img.icons8.com/color/40/000000/heroku.png)
+![Python](https://img.icons8.com/color/40/000000/python.png)
+![VS Code](https://img.icons8.com/fluent/40/000000/visual-studio-code-2019.png)
+![Django](https://img.icons8.com/windows/40/000000/django.png)
+![PostgreSQL](https://img.icons8.com/color/40/000000/postgreesql.png)
+![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png) 
+![HTML5](https://img.icons8.com/color/40/000000/html-5.png)
+![CSS3](https://img.icons8.com/color/40/000000/css3.png)
+![Bootstrap](https://img.icons8.com/color/40/000000/bootstrap.png)
 
 ## Contact
 
