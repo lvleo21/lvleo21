@@ -29,7 +29,8 @@
 ![HTML5](https://img.icons8.com/color/40/000000/html-5.png)
 ![CSS3](https://img.icons8.com/color/40/000000/css3.png)
 ![Bootstrap](https://img.icons8.com/color/40/000000/bootstrap.png)
+![Terminal](https://img.icons8.com/office/40/000000/console.png)
 
 ## Contact
 
-- :mailbox: verasleonardo210@gmail.com
+- verasleonardo210@gmail.com
