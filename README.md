@@ -16,7 +16,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lvleo21&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Languages and Tools
-
+![HTML5](https://img.icons8.com/color/40/000000/html-5.png)
+![CSS3](https://img.icons8.com/color/40/000000/css3.png)
 ![JavaScript](https://img.icons8.com/color/40/000000/javascript-logo-1.png)
 ![Git](https://img.icons8.com/color/40/000000/git.png)
 ![GitHub](https://img.icons8.com/fluent/40/000000/github.png)
@@ -26,7 +27,5 @@
 ![Django](https://img.icons8.com/windows/40/000000/django.png)
 ![PostgreSQL](https://img.icons8.com/color/40/000000/postgreesql.png)
 ![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png) 
-![HTML5](https://img.icons8.com/color/40/000000/html-5.png)
-![CSS3](https://img.icons8.com/color/40/000000/css3.png)
 ![Bootstrap](https://img.icons8.com/color/40/000000/bootstrap.png)
 ![Terminal](https://img.icons8.com/office/40/000000/console.png)
