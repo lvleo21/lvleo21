@@ -5,9 +5,9 @@
 ## About
 - :construction_worker: I’m currently working on [Sertão Mais Saúde](http://sertaomaissaude.com.br/site/) and Health Transportation;
 - 🌱 I’m currently learning about:
-  - Django;
-  - Django Rest Framework;
-  - Docker;
+  - [Django](https://www.djangoproject.com/);
+  - [Django Rest Framework](https://www.django-rest-framework.org/);
+  - [Docker](https://www.docker.com/);
   - English
 
 
