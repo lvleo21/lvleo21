@@ -12,8 +12,8 @@
 - [Build a REST API with Pyhon & Django](https://www.udemy.com/share/101XNeCUAcc1tVTXw=/) (Beginner);
 - [Elixir e Phoenix do zero! Crie sua primeira API Phoenix.](https://www.udemy.com/share/103oZOCUAcc1tVTXw=/);
 
-## Most used languages in my projects
-  
+## 📊 Most used languages in my projects
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lvleo21&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🛠 Languages and Tools
