@@ -1,10 +1,15 @@
 # Hi there,  i'm Leonardo Veras 
-### I'm back-end developer and studant of Sistemas da Informação at UAST - UFRPE
+### I'm backend developer and studant of Sistemas da Informação at UAST - UFRPE
 
 
-## 👩‍💻 About
+## 👩‍💻 About me
 
 - I’m currently working on [Sertão Mais Saúde](http://sertaomaissaude.com.br/site/) and Health Transportation;
+- My favorite framework is Django (and Django Rest Framework);
+- My first programming language was Python;
+- I started programming in 2017;
+- I love V8 engines;
+- My favorite anime is Naruto;
 
 
 ## :books: What am i studying?
