@@ -15,7 +15,6 @@
 ## :books: What am i studying?
 
 - [Build a REST API with Pyhon & Django](https://www.udemy.com/share/101XNeCUAcc1tVTXw=/) (Beginner);
-- [Elixir e Phoenix do zero! Crie sua primeira API Phoenix.](https://www.udemy.com/share/103oZOCUAcc1tVTXw=/);
 
 ## 📊 Most used languages in my projects
 
