@@ -4,7 +4,7 @@
 
 ## 👩‍💻 About me
 
-- I’m currently working on [Sertão Mais Saúde](http://sertaomaissaude.com.br/site/) and Health Transportation;
+- I worked on the [Sertão Mais Saúde](http://sertaomaissaude.com.br/site/) project;
 - My favorite framework is Django (and Django Rest Framework);
 - My first programming language was Python;
 - I started programming in 2017;
@@ -14,7 +14,7 @@
 
 ## :books: What am i studying?
 
-- [Build a REST API with Pyhon & Django](https://www.udemy.com/share/101XNeCUAcc1tVTXw=/) (Beginner);
+- [Spring Boot & MVC com Thymeleaf](https://www.udemy.com/course/spring-boot-mvc-com-thymeleaf/)
 
 ## 📊 Most used languages in my projects
 
