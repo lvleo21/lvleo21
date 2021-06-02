@@ -43,4 +43,6 @@
 ![IntelliJ](https://img.icons8.com/color/40/000000/intellij-idea.png)
 ![Linux](https://img.icons8.com/color/40/000000/linux.png)
 
+## 🐍 Snake
+
 ![Snake animation](https://github.com/lvleo21/lvleo21/blob/output/github-contribution-grid-snake.svg)
