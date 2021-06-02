@@ -16,16 +16,23 @@
 
 - [Spring Boot & MVC com Thymeleaf](https://www.udemy.com/course/spring-boot-mvc-com-thymeleaf/)
 
-## 📊 Most used languages in my projects
+## 📊 Most used languages in my projects and GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lvleo21&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lvleo21&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+
+<div>
+  <a href="https://github.com/lvleo21">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lvleo21&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lvleo21&layout=compact&langs_count=16&theme=light"/>
+<div>
 
 ## 🛠 Languages and Tools
 ![HTML5](https://img.icons8.com/color/40/000000/html-5.png)
 ![CSS3](https://img.icons8.com/color/40/000000/css3.png)
-![JavaScript](https://img.icons8.com/color/40/000000/javascript-logo-1.png)
+![JavaScript](https://img.icons8.com/color/40/000000/javascript.png)
 ![Python](https://img.icons8.com/color/40/000000/python.png)
 ![Django](https://img.icons8.com/windows/40/000000/django.png)
+![Spring](https://img.icons8.com/color/40/000000/spring-logo.png)
 ![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png) 
 ![PostgreSQL](https://img.icons8.com/color/40/000000/postgreesql.png)
 ![Bootstrap](https://img.icons8.com/color/40/000000/bootstrap.png)
@@ -33,4 +40,7 @@
 ![GitHub](https://img.icons8.com/fluent/40/000000/github.png)
 ![Heroku](https://img.icons8.com/color/40/000000/heroku.png)
 ![VS Code](https://img.icons8.com/fluent/40/000000/visual-studio-code-2019.png)
-![Terminal](https://img.icons8.com/office/40/000000/console.png)
+![IntelliJ](https://img.icons8.com/color/40/000000/intellij-idea.png)
+![Linux](https://img.icons8.com/color/40/000000/linux.png)
+
+![Snake animation](https://github.com/lvleo21/lvleo21/blob/output/github-contribution-grid-snake.svg)
