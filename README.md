@@ -4,14 +4,13 @@
 
 ## 👩‍💻 About me
 
-- Junior Developer at [Layout Sistemas](http://www.layoutsistemas.com.br/)
 - I worked on the [Sertão Mais Saúde](http://sertaomaissaude.com.br/site/) project;
 - My favorite framework is Django;
 - My first programming language was Python;
 - I started programming in 2017;
 - I love V8 engines;
 - My favorite anime is Naruto;
-
+- Junior Developer;
 
 ## :books: What am i studying?
 
