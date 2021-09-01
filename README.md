@@ -4,8 +4,9 @@
 
 ## 👩‍💻 About me
 
+- Junior Developer at [Layout Sistemas](http://www.layoutsistemas.com.br/)
 - I worked on the [Sertão Mais Saúde](http://sertaomaissaude.com.br/site/) project;
-- My favorite framework is Django (and Django Rest Framework);
+- My favorite framework is Django;
 - My first programming language was Python;
 - I started programming in 2017;
 - I love V8 engines;
@@ -14,7 +15,7 @@
 
 ## :books: What am i studying?
 
-- [Spring Boot & MVC com Thymeleaf](https://www.udemy.com/course/spring-boot-mvc-com-thymeleaf/)
+- [Curso React + Redux](https://www.udemy.com/course/react-redux-pt/)
 
 ## 📊 Most used languages in my projects and GitHub Stats
 
@@ -42,7 +43,3 @@
 ![VS Code](https://img.icons8.com/fluent/40/000000/visual-studio-code-2019.png)
 ![IntelliJ](https://img.icons8.com/color/40/000000/intellij-idea.png)
 ![Linux](https://img.icons8.com/color/40/000000/linux.png)
-
-## 🐍 Snake
-
-![Snake animation](https://github.com/lvleo21/lvleo21/blob/output/github-contribution-grid-snake.svg)
