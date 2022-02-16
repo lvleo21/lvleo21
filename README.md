@@ -1,20 +1,19 @@
 # Hi there,  i'm Leonardo Veras 
-### I'm backend developer and studant of Sistemas da Informação at UAST - UFRPE
+### I'm full stack developer and studant of Sistemas da Informação at UAST - UFRPE
 
 
 ## 👩‍💻 About me
 
-- I worked on the [Sertão Mais Saúde](http://sertaomaissaude.com.br/site/) project;
-- My favorite framework is Django;
+- My stack is Django and ReactJS ❤️;
 - My first programming language was Python;
 - I started programming in 2017;
 - I love V8 engines;
-- My favorite anime is Naruto;
-- Junior Developer;
 
 ## :books: What am i studying?
 
-- [Curso React + Redux](https://www.udemy.com/course/react-redux-pt/)
+- [Curso React + Redux](https://www.udemy.com/course/react-redux-pt/);
+- [Desenvolvimento de jogos com JavaScript](https://www.udemy.com/course/desenvolvimentodejogoscomjavascript/);
+- [JavaScript Funcional e Reativo](https://www.udemy.com/course/javascript-funcional/)
 
 ## 📊 Most used languages in my projects and GitHub Stats
 
