@@ -1,4 +1,4 @@
-<h1 align="center">Hi there,  i'm Leonardo Veras</h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> Hi there,  i'm Leonardo Veras </h1>
 
 <h3 align="center">I'm full stack developer and studant of Sistemas da Informação at UAST - UFRPE</h3>
 
@@ -6,12 +6,15 @@
 
 ## 👩‍💻 About me
 
+<br>
+
 - My stack is Django and ReactJS ❤️;
 - My first programming language was Python;
-- I started programming in 2017;
-- I love V8 engines and likes watch drift championships;
+- I started programming in 2017;;
 
 ## :books: What am i studying?
+
+<br>
 
 - [Curso React + Redux](https://www.udemy.com/course/react-redux-pt/);
 - [Desenvolvimento de jogos com JavaScript](https://www.udemy.com/course/desenvolvimentodejogoscomjavascript/);
@@ -19,9 +22,9 @@
 
 ## 📊 Most used languages in my projects and GitHub Stats
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lvleo21&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+<br>
 
-<div align="center" style="display: inline_block;">
+<div>
   <a href="https://github.com/lvleo21">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lvleo21&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lvleo21&layout=compact&langs_count=16&theme=light"/>
@@ -29,8 +32,8 @@
 
 ## 🛠 Languages and Tools
 
+<br>
 
-<div style="display: inline_block; margin_top: 15px" align="center" >
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
@@ -45,6 +48,3 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
-</div>
-          
-          
