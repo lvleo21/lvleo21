@@ -1,13 +1,15 @@
-# Hi there,  i'm Leonardo Veras 
-### I'm full stack developer and studant of Sistemas da Informação at UAST - UFRPE
+<h1 align="center">Hi there,  i'm Leonardo Veras</h1>
 
+<h3 align="center">I'm full stack developer and studant of Sistemas da Informação at UAST - UFRPE</h3>
+
+<br/>
 
 ## 👩‍💻 About me
 
 - My stack is Django and ReactJS ❤️;
 - My first programming language was Python;
 - I started programming in 2017;
-- I love V8 engines;
+- I love V8 engines and likes watch drift championships;
 
 ## :books: What am i studying?
 
@@ -26,18 +28,37 @@
 <div>
 
 ## 🛠 Languages and Tools
-![HTML5](https://img.icons8.com/color/40/000000/html-5.png)
-![CSS3](https://img.icons8.com/color/40/000000/css3.png)
-![JavaScript](https://img.icons8.com/color/40/000000/javascript.png)
-![Python](https://img.icons8.com/color/40/000000/python.png)
-![Django](https://img.icons8.com/windows/40/000000/django.png)
-![Spring](https://img.icons8.com/color/40/000000/spring-logo.png)
-![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png) 
-![PostgreSQL](https://img.icons8.com/color/40/000000/postgreesql.png)
-![Bootstrap](https://img.icons8.com/color/40/000000/bootstrap.png)
-![Git](https://img.icons8.com/color/40/000000/git.png)
-![GitHub](https://img.icons8.com/fluent/40/000000/github.png)
-![Heroku](https://img.icons8.com/color/40/000000/heroku.png)
-![VS Code](https://img.icons8.com/fluent/40/000000/visual-studio-code-2019.png)
-![IntelliJ](https://img.icons8.com/color/40/000000/intellij-idea.png)
-![Linux](https://img.icons8.com/color/40/000000/linux.png)
+
+
+<div style="display: 'inline-block';">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  width="40"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+          
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"  width="40"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"  width="40"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40"/>
+        
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+        
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+        
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" width="40"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
+</div>
+          
+          
