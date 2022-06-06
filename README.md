@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> Hi there,  i'm Leonardo Veras </h1>
+<h1 align="center"> Hi there,  i'm Leonardo Veras </h1>
 
 <h3 align="center">I'm full stack developer and studant of Sistemas da Informação at UAST - UFRPE</h3>
 
