@@ -1,9 +1,8 @@
 <h1 align="center"> Hi there,  i'm Leonardo Veras </h1>
 
 <h3 align="center">I'm full stack developer and studant of Sistemas da Informação at UAST - UFRPE</h3>
-<h5 align="center"><i>Developer at <b>Wololo</b></i></h5>
+<p align="center"><i>Developer at <b>Wololo</b></i></p>
 
-_leonardo_
 
 <br/>
 
@@ -28,7 +27,7 @@ _leonardo_
 
 <br>
 
-<center>
+<dl>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
@@ -43,5 +42,4 @@ _leonardo_
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
-
-</center>
+</dl>
