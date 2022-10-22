@@ -1,0 +1,55 @@
+<svg fill="none" viewBox="0 0 800 400" xmlns="http://www.w3.org/2000/svg">
+	<foreignObject width="100%" height="100%">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<style>
+				.container {
+					font-family:
+						system-ui,
+						-apple-system,
+						'Segoe UI',
+						Roboto,
+						Helvetica,
+						Arial,
+						sans-serif,
+						'Apple Color Emoji',
+						'Segoe UI Emoji';
+					color: #fff;
+
+					display: flex;
+					align-items: center;
+					justify-content: center;
+					/* flex-direction: column; */
+				}
+
+				p {
+					font-style: italic;
+					margin-top: 30px;
+				}
+
+
+				img{
+					border-radius: 20px;
+					box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.5);
+					margin-bottom: 10px;
+				}
+
+				#title{
+					margin-left: 10px;
+				}
+			</style>
+			<div class="container">
+
+				
+				<img src="https://avatars.githubusercontent.com/u/33973789" height="150" width="150" />
+
+				<div id="title">
+					<h1>Hi there, i'm Leonardo Veras</h1>
+					<p>
+						Full stack developer at Wololo Tech and studant of Sistemas da Informação at UAST - UFRPE
+					</p>	
+				</div>
+				
+			</div>
+		</div>
+	</foreignObject>
+</svg>
