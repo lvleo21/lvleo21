@@ -3,7 +3,7 @@
 <h3 align="center">I'm full stack developer and studant of Sistemas da Informação at UAST - UFRPE</h3>
 <p align="center"><i>Developer at Wololo</i></p> -->
 
-<img align="center" src="https://raw.githubusercontent.com/gist/lvleo21/6dde127e053a08a337d2d426ba37df1b/raw/d78a70c8f2ce505efefdb539818aa5d66855c90c/github-profile-card.svg">
+<img align="center" src="https://raw.githubusercontent.com/gist/lvleo21/6dde127e053a08a337d2d426ba37df1b/raw/cd36afbf3d18d4f117a523fce5c0d43a872a4e25/github-profile-card.svg">
 
 <br/>
 
