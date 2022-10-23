@@ -1,8 +1,9 @@
-<h1 align="center"> Hi there,  i'm Leonardo Veras </h1>
+<!-- <h1 align="center"> <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> Hi there,  i'm Leonardo Veras </h1>
 
 <h3 align="center">I'm full stack developer and studant of Sistemas da Informação at UAST - UFRPE</h3>
-<p align="center"><i>Developer at Wololo</i></p>
+<p align="center"><i>Developer at Wololo</i></p> -->
 
+<img align="center" src="https://raw.githubusercontent.com/gist/lvleo21/6dde127e053a08a337d2d426ba37df1b/raw/426e3ae67c4db536adb7474885d4539d1e762c33/github-profile-card.svg">
 
 <br/>
 
@@ -23,7 +24,7 @@
 - [JavaScript Funcional e Reativo](https://www.udemy.com/course/javascript-funcional/)
 
 
-## 🛠 Languages and Tools
+<!-- ## 🛠 Languages and Tools
 
 <br>
 
@@ -42,4 +43,4 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
-</dl>
+</dl> -->
