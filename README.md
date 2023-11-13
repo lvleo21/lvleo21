@@ -4,8 +4,8 @@
 
 ## 👩‍💻 About me
 
-- Developer at **Useflow/Wololo**
-- I worked on the [Sertão Mais Saúde](http://sertaomaissaude.com.br/site/) project;
+- Developer at **Useflow/Wololo**;
+- I worked on the **Sertão Mais Saúde** extension project;
 - My favorite framework is Django;
 - My first programming language was Python;
 - I started programming in 2017;
