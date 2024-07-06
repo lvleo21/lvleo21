@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-<img src="https://avatars.githubusercontent.com/u/33973789" height="auto" width="200" style="border-radius:50%; margin-top:1rem"/>
+  <img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/33973789?v=4&w=200&fit=cover&mask=circle&maxage=7d"/>
 </p>
 
 ## 👩‍💻 Sobre mim
