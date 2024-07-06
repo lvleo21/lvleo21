@@ -1,15 +1,3 @@
-<h1 align="center">
-  Olá, meu nome é Leonardo Veras
-  <picture>
-    <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/270c_fe0f/512.webp" type="image/webp">
-    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/270c_fe0f/512.gif" alt="✌" width="32" height="32">
-  </picture>
-</h1>
-
-<p align="center">
-  <img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/33973789?v=4&w=200&fit=cover&mask=circle&maxage=7d"/>
-</p>
-
 ## 👩‍💻 Sobre mim
 
 - Desenvolvedor de software na **Useflow**;
