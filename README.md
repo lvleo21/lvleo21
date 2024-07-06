@@ -1,10 +1,13 @@
-# Olá, meu nome é Leonardo Veras
+<h1 align="center">
+  Olá, meu nome é Leonardo Veras
+</h1>
 
 ## 👩‍💻 Sobre mim
 
 - Desenvolvedor de software na **Useflow**;
 - Extensionista no projeto do **Sertão Mais Saúde**;
 - Bacharel em **Sistemas de Informação**;
+- **Nordestino** com orgulho;
 - Apaixonado por **animes** e **quadrinhos**;
 
 ## 🛠 Tecnologias
@@ -19,7 +22,6 @@
 ![Bootstrap](https://img.icons8.com/color/40/000000/bootstrap.png)
 ![Git](https://img.icons8.com/color/40/000000/git.png)
 
-
 ## 📞 Contatos
-[![LinkedIn](https://img.icons8.com/color/40/000000/linkedin.png)](https://www.linkedin.com/in/lvleo21/)
-[![Gmail](https://img.icons8.com/color/40/000000/gmail.png)](mailto:verasleonardo210@gmail.com)
+- **Linkedin:** https://www.linkedin.com/in/lvleo21/
+- **E-mail:** verasleonardo210@gmail.com
