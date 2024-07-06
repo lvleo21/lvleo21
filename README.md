@@ -1,6 +1,14 @@
 <h1 align="center">
   Olá, meu nome é Leonardo Veras
+  <picture>
+    <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/270c_fe0f/512.webp" type="image/webp">
+    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/270c_fe0f/512.gif" alt="✌" width="32" height="32">
+  </picture>
 </h1>
+
+<p align="center">
+<img src="https://avatars.githubusercontent.com/u/33973789" height="auto" width="200" style="border-radius:50%; margin-top:1rem"/>
+</p>
 
 ## 👩‍💻 Sobre mim
 
