@@ -1,8 +1,8 @@
 ## 👩‍💻 Sobre mim
 
 - Desenvolvedor de software na **Useflow**;
-- Extensionista no projeto do **Sertão Mais Saúde**;
 - Bacharel em **Sistemas de Informação**;
+- Extensionista no projeto do **Sertão Mais Saúde**;
 - **Nordestino** com orgulho;
 - Apaixonado por **animes** e **quadrinhos**;
 
