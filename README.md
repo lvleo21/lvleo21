@@ -21,3 +21,4 @@
 ## 📞 Contatos
 - **Linkedin:** https://www.linkedin.com/in/lvleo21/
 - **E-mail:** verasleonardo210@gmail.com
+- **Mais informações:** [Currículo](https://docs.google.com/document/d/e/2PACX-1vRL3zRHSJKvvqfa4RrbTUyFW1alh6F7xQwZfPaJB_ArQvrX-M31YnRnuD2Fn764mWciyTSvWCMw7zcL/pub)
