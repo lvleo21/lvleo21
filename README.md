@@ -8,7 +8,16 @@
 
 ## 🛠 Tecnologias
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,react,python,django,mysql,postgresql,redis,git" />
+![HTML5](https://img.icons8.com/color/40/000000/html-5.png)
+![CSS3](https://img.icons8.com/color/40/000000/css3.png)
+![JavaScript](https://img.icons8.com/color/40/000000/javascript.png)
+![Python](https://img.icons8.com/color/40/000000/python.png)
+![Django](https://img.icons8.com/windows/40/0C4B33/django.png)
+![PostgreSQL](https://img.icons8.com/color/40/000000/postgreesql.png)
+![MySQL](https://img.icons8.com/color/40/mysql-logo.png)
+![Bootstrap](https://img.icons8.com/color/40/000000/bootstrap.png)
+![Git](https://img.icons8.com/color/40/000000/git.png)
+
 
 ## 📞 Contatos
 - **Linkedin:** https://www.linkedin.com/in/lvleo21/
