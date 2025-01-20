@@ -1,12 +1,12 @@
-## 👩‍💻 Sobre mim
+## 👩‍💻 About Me  
 
-- Desenvolvedor **Backend**;
-- Bacharel em **Sistemas de Informação**;
-- Extensionista no projeto do **Sertão Mais Saúde**;
-- **Nordestino** com orgulho;
-- Apaixonado por **animes** e **quadrinhos**;
+- **Backend** Developer;  
+- Bachelor’s degree in **Information Systems**;  
+- Extensionist in the **Sertão Mais Saúde** project;  
+- Proud **Northeastern Brazilian**;  
+- Passionate about **anime** and **comics**;  
 
-## 🛠 Tecnologias
+## 🛠 Technologies  
 
 ![HTML5](https://img.icons8.com/color/40/000000/html-5.png)
 ![CSS3](https://img.icons8.com/color/40/000000/css3.png)
@@ -19,8 +19,8 @@
 ![Tailwind](https://img.icons8.com/color/40/000000/tailwind_css.png)
 ![Git](https://img.icons8.com/color/40/000000/git.png)
 
+## 📞 Contact  
 
-## 📞 Contatos
-- **Linkedin:** https://www.linkedin.com/in/lvleo21/
-- **E-mail:** lvleo21.dev@gmail.com
-- **Mais informações:** [Currículo](https://docs.google.com/document/d/e/2PACX-1vRL3zRHSJKvvqfa4RrbTUyFW1alh6F7xQwZfPaJB_ArQvrX-M31YnRnuD2Fn764mWciyTSvWCMw7zcL/pub)
+- **LinkedIn:** https://www.linkedin.com/in/lvleo21/  
+- **Email:** lvleo21.dev@gmail.com  
+- **More Information:** [Resume](https://docs.google.com/document/d/e/2PACX-1vRL3zRHSJKvvqfa4RrbTUyFW1alh6F7xQwZfPaJB_ArQvrX-M31YnRnuD2Fn764mWciyTSvWCMw7zcL/pub)  
