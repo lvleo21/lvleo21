@@ -1,6 +1,6 @@
 ## 👩‍💻 Sobre mim
 
-- Desenvolvedor de software na **Useflow**;
+- Desenvolvedor Backend;
 - Bacharel em **Sistemas de Informação**;
 - Extensionista no projeto do **Sertão Mais Saúde**;
 - **Nordestino** com orgulho;
