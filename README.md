@@ -16,6 +16,7 @@
 ![PostgreSQL](https://img.icons8.com/color/40/000000/postgreesql.png)
 ![MySQL](https://img.icons8.com/color/40/mysql-logo.png)
 ![Bootstrap](https://img.icons8.com/color/40/000000/bootstrap.png)
+![Tailwind](https://img.icons8.com/color/40/000000/tailwind_css.png)
 ![Git](https://img.icons8.com/color/40/000000/git.png)
 
 
