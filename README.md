@@ -1,8 +1,7 @@
 ## 👩‍💻 About Me  
 
 - **Backend** Developer;  
-- Bachelor’s degree in **Information Systems**;  
-- Extensionist in the **Sertão Mais Saúde** project;  
+- Bachelor’s degree in **Information Systems**;   
 - Proud **Northeastern Brazilian**;  
 - Passionate about **anime** and **comics**;  
 
