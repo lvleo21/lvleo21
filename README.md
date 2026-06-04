@@ -7,16 +7,18 @@
 
 ## 🛠 Technologies  
 
-![HTML5](https://img.icons8.com/color/40/000000/html-5.png)
-![CSS3](https://img.icons8.com/color/40/000000/css3.png)
-![JavaScript](https://img.icons8.com/color/40/000000/javascript.png)
-![Python](https://img.icons8.com/color/40/000000/python.png)
-![Django](https://img.icons8.com/windows/40/0C4B33/django.png)
-![PostgreSQL](https://img.icons8.com/color/40/000000/postgreesql.png)
-![MySQL](https://img.icons8.com/color/40/mysql-logo.png)
-![Bootstrap](https://img.icons8.com/color/40/000000/bootstrap.png)
-![Tailwind](https://img.icons8.com/color/40/000000/tailwind_css.png)
-![Git](https://img.icons8.com/color/40/000000/git.png)
+<p>
+  <img src="https://img.icons8.com/color/40/000000/html-5.png" alt="HTML5">
+  <img src="https://img.icons8.com/color/40/000000/css3.png" alt="CSS3">
+  <img src="https://img.icons8.com/color/40/000000/javascript.png" alt="JavaScript">
+  <img src="https://img.icons8.com/color/40/000000/python.png" alt="Python">
+  <img src="https://img.icons8.com/windows/40/0C4B33/django.png" alt="Django">
+  <img src="https://img.icons8.com/color/40/000000/postgreesql.png" alt="PostgreSQL">
+  <img src="https://img.icons8.com/color/40/mysql-logo.png" alt="MySQL">
+  <img src="https://img.icons8.com/color/40/000000/bootstrap.png" alt="Bootstrap">
+  <img src="https://img.icons8.com/color/40/000000/tailwind_css.png" alt="Tailwind">
+  <img src="https://img.icons8.com/color/40/000000/git.png" alt="Git">
+</p>
 
 ## 📞 Contact  
 
