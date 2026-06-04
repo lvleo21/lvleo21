@@ -24,5 +24,5 @@
 
 - **LinkedIn:** [https://www.linkedin.com/in/lvleo21/](https://www.linkedin.com/in/lvleo21/)
 - **Email:** [lvleo21.dev@gmail.com](lvleo21.dev@gmail.com)
-- **Github:** [lvleo21.dev@gmail.com](https://github.com/lvleo21)
+- **Github:** [https://github.com/lvleo21](https://github.com/lvleo21)
 - **More Information:** [Resume](https://docs.google.com/document/d/e/2PACX-1vRL3zRHSJKvvqfa4RrbTUyFW1alh6F7xQwZfPaJB_ArQvrX-M31YnRnuD2Fn764mWciyTSvWCMw7zcL/pub)  
