@@ -10,7 +10,7 @@
 - **LinkedIn:** [https://www.linkedin.com/in/lvleo21/](https://www.linkedin.com/in/lvleo21/)
 - **Email:** [lvleo21.dev@gmail.com](lvleo21.dev@gmail.com)
 - **Github:** [https://github.com/lvleo21](https://github.com/lvleo21)
-- **More Information:** [Resume](https://docs.google.com/document/d/e/2PACX-1vRL3zRHSJKvvqfa4RrbTUyFW1alh6F7xQwZfPaJB_ArQvrX-M31YnRnuD2Fn764mWciyTSvWCMw7zcL/pub)  
+- **More Information:** [Resume](https://www.lvleo21.com/resume/)  
 
 ## 🛠 Technologies  
 
@@ -24,7 +24,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"></br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="Tailwind CSS">
