@@ -14,15 +14,10 @@
 
 ## 🛠 Technologies  
 
-**Backend:** Python, Django, Django REST Framework, Celery, RabbitMQ, Redis, SQL  
-**Frontend:** JavaScript, React, Tailwind CSS, DaisyUI, Astro, HTML, CSS, HTMX  
-**Data:** PostgreSQL, MySQL, pgvector, Polars, Pandas  
-**AI / LLM:** LangChain, LLM integration (RAG), Claude Code  
-**Infrastructure / DevOps:** Docker, CI/CD, Linux, Cloudflare, MinIO, Supervisord, Git  
-
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="Django">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/djangorest/djangorest-original.svg" height="40" alt="Django REST Framework">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" height="40" alt="RabbitMQ">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="Redis">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL">
