@@ -10,7 +10,7 @@
 - **LinkedIn:** [https://www.linkedin.com/in/lvleo21/](https://www.linkedin.com/in/lvleo21/)
 - **Email:** [lvleo21.dev@gmail.com](lvleo21.dev@gmail.com)
 - **Github:** [https://github.com/lvleo21](https://github.com/lvleo21)
-- **More Information:** [Resume](https://www.lvleo21.com/resume/)  
+- **More Information:** [https://www.lvleo21.com/](https://www.lvleo21.com/)  
 
 ## 🛠 Technologies  
 
